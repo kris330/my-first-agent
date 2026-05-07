@@ -1,0 +1,21 @@
+# 绝对不能上传的文件
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# 虚拟环境
+venv/
+.venv/
+env/
